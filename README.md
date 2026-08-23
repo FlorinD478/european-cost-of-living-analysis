@@ -315,8 +315,8 @@ Some countries improve their relative position, while others deteriorate.
 ## Earnings and Price Levels 
 
 <p align="center">
-  <img src="figures/Earnings and Price Levels at 100% of average earnings.png" width="45%">
-  <img src="figures/Earnings and Price 50%.png" width="45%">
+  <img src="figures/Earnings and Price Levels at 100% of average earnings.png" width="50%">
+  <img src="figures/Earnings and Price 50%.png" width="50%">
 </p>
 
 
@@ -325,8 +325,8 @@ Some countries improve their relative position, while others deteriorate.
 ## Affordability
 
 <p align="center">
-  <img src="figures/Affordability 100.png" width="45%">
-  <img src="figures/Affordability 50.png" width="45%">
+  <img src="figures/Affordability 100.png" width="50%">
+  <img src="figures/Affordability 50.png" width="50%">
 </p>
 
 * * *
