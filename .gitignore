@@ -34,3 +34,7 @@ dist/
 # Local databases
 *.db
 *.sqlite3
+
+# Drafts
+/Drafts.docx
+

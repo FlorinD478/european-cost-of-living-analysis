@@ -2,7 +2,7 @@
 
 ## EU27 comparison of earnings, price levels and affordability
 
-This project investigates the relationship between **price levels and net earnings across the 27 European Union Member States**.
+This project investigates the relationship between **price levels and net earnings across the 27 European Union Member States**. 
 
 The central question is:
 
@@ -238,7 +238,7 @@ For workers earning 50% of average earnings:
 
 This demonstrates that countries with higher price levels generally also have higher net earnings.
 
-However, the slightly weaker relationship at 50% suggests that lower-paid workers experience somewhat greater variation in earnings relative to their country's price level.
+However, the slightly weaker relationship at 50% suggests that lower-paid workers experience somewhat greater variation in earnings relative to their country's price level. 
 
 * * *
 
@@ -308,39 +308,33 @@ The affordability comparison shows that countries respond differently when earni
 
 Some countries improve their relative position, while others deteriorate.
 
-### \[Insert 100% vs. 50% affordability comparison figure here\]
-
 * * *
 
 # Visualizations
 
-## Earnings and Price Levels
+## Earnings and Price Levels 
 
-### 100% of Average Earnings
+<p align="center">
+  <img src="figures/Earnings and Price Levels at 100% of average earnings.png" width="45%">
+  <img src="figures/Earnings and Price 50%.png" width="45%">
+</p>
 
-\[Insert figure\]
-
-### 50% of Average Earnings
-
-\[Insert figure\]
 
 * * *
 
 ## Affordability
 
-### 100% of Average Earnings
-
-\[Insert figure\]
-
-### 50% of Average Earnings
-
-\[Insert figure\]
+<p align="center">
+  <img src="figures/Affordability 100.png" width="45%">
+  <img src="figures/Affordability 50.png" width="45%">
+</p>
 
 * * *
 
 ## 100% vs. 50% Comparison
-
-\[Insert figure\]
+<p align="center">
+  <img src="figures/Affordability Comparison.png" >
+</p>
 
 * * *
 
