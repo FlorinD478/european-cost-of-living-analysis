@@ -299,6 +299,9 @@ Examples include:
 This suggests that a country's attractiveness can change substantially depending on the income level of the individual being considered.
 
 * * *
+<p align="center">
+  <img src="figures/powerbi_dashboard.png" width="95%">
+</p>
 
 # 100% vs. 50% Earnings
 
