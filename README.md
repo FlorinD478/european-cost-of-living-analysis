@@ -476,11 +476,11 @@ The technical and reproducible foundation of the project.
 
 ### Streamlit Application
 
-An interactive web application for exploring the data and results.
+An interactive web application for exploring the data and results.  -> in the venv terminal run streamlit run app.py
 
 ### Power BI Dashboard
 
-A professional business-intelligence dashboard presenting the key findings interactively.
+A professional business-intelligence dashboard presenting the key findings interactively. -> install powerBi for checking the .pbix file
 
 ### PDF Report
 
