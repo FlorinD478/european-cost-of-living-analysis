@@ -6,3 +6,4 @@ jupyter
 pathlib
 streamlit
 plotly
+reportlab
